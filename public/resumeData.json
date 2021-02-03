@@ -1,0 +1,116 @@
+{
+    "main": {
+      "name": "Asher-jay Arenz",
+      "occupation": "Junior Developer, Political Science Graduate and Former Teacher. ",
+      "description": "Self taught web developer specialising in HTML, CSS, JavaScript, React JS, React Native, FireBase, and Node JS",
+      "image": "IMG_0242.jpg",
+      "bio": "Hi there! I am Asher! I am 26 year old Capetonian SACS old boy. I love Cape Town and I think it is one of the most beautiful cities in the world with so many creative individuals. I have an academic background in social sciences but over the last 2 years have navigated toward coding. I can now say I have a passion for Web Development and wish I had learned it earlier in life. If I could learn how to code, anyone can.",
+      "email": "asherjaya@gmail.com",
+      "phone": "+27 0606497575",
+      "address": {
+        "street": "41 Ferguson Street, Plumstead",
+        "city": "Cape Town",
+        "state": "Western Cape ",
+        "zip": "7800"
+      },
+      "social": [
+        {
+          "name": "youtube",
+          "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
+          "className": "fa fa-youtube"
+        },
+        {
+          "name": "facebook",
+          "url": "https://www.facebook.com/sonny.sangha.3",
+          "className": "fa fa-facebook"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/saajansangha",
+          "className": "fa fa-linkedin"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/ssssangha/",
+          "className": "fa fa-instagram"
+        },
+        {
+          "name": "github",
+          "url": "https://github.com/PapaReact",
+          "className": "fa fa-github"
+        }
+      ]
+    },
+    "resume": {
+      "skillmessage": "My Programming Language Proficiency",
+      "education": [
+        {
+          "school": "University of Cape Town",
+          "degree": "Bachelor's Degree, Social Science",
+          "graduated": "April 2019",
+          "description": "Majored in Politics and Governance"
+        }
+      ],
+      "work": [
+        {
+          "company": "BetaLoop",
+          "title": "Founder and CEO",
+          "years": "August 2020 - Present",
+          "description": "Platform that allows amateur filmakers to create and upload short films/content."
+        }
+      ],
+      "skills": [
+        {
+          "name": "ReactJs",
+          "level": "70%"
+        },
+        {
+          "name": "JavaScript",
+          "level": "70%"
+        },
+        {
+          "name": "Teaching and Academia",
+          "level": "75%"
+        },
+        {
+          "name": "Web Development",
+          "level": "70%"
+        }
+        
+      ]
+    },
+    "portfolio": {
+      "projects": [
+        {
+          "title": "Snapchat Clone (React JS)",
+          "category": "",
+          "image": "snapchat.jpg",
+          "url": "https://youtu.be/1kGISk5ft2w"
+        },
+        {
+          "title": "Gmail Clone (React JS)",
+          "category": "",
+          "image": "gmail.image.png",
+          "url": "https://youtu.be/b7nrXjS6Dqs"
+        },
+        {
+          "title": "LinkedIn Clone (React JS)",
+          "category": "",
+          "image": "linkedin.jpg",
+          "url": "https://youtu.be/QaYts9sPmcY"
+        }
+      ]
+    },
+    "testimonials": {
+      "testimonials": [
+        {
+          "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+          "user": "Jorge Fouto"
+        },
+        {
+          "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+          "user": "Adam Curtis"
+        }
+      ]
+    }
+  }
